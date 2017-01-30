@@ -1,0 +1,1 @@
+"use strict";!function(e){var r=e.querySelector("#app"),a=~navigator.userAgent.indexOf("Crosswalk");r.baseUrl="/",localStorage.is_dev||a||(r.baseUrl="/production/operator-display/")}(document);
